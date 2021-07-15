@@ -84,5 +84,6 @@
                 "new_window": true
             }
         ]
-    }
+    },
+    "domain": "https://libris-09cd2.netlify.app"
 }
